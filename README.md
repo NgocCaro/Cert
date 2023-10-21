@@ -4,3 +4,4 @@ Chứng chỉ TOEIC - 680
 Chứng chỉ Coursera Google IT Support
 Chứng chỉ Coursera & IBM Introduction to Data Engineering
 Giấy chứng nhận Python cơ bản - Codelearn
+Python for Data Science, AI & Development
