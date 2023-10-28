@@ -5,3 +5,4 @@ Chứng chỉ Coursera Google IT Support
 Chứng chỉ Coursera & IBM Introduction to Data Engineering
 Giấy chứng nhận Python cơ bản - Codelearn
 Python for Data Science, AI & Development
+Chứng chỉ Coursera Python Project for Data Engineering
