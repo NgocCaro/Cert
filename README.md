@@ -9,3 +9,4 @@ Giấy chứng nhận Python cơ bản - Codelearn
 Python for Data Science, AI & Development - Coursera
 Chứng chỉ Coursera Python Project for Data Engineering
 Understanding Data Engineering - DataCamp
+Introduction to Importing Data in Python - DataCamp
